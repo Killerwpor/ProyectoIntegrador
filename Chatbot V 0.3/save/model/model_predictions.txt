@@ -1,0 +1,126 @@
+Q: Hi
+A: Hi.
+
+Q: Hi!
+A: What's the matter?
+
+Q: Are you conscious?
+A: Yes, sir.
+
+Q: How are you?
+A: Fine.
+
+Q: What is your name ?
+A: Bedevere, mr. chekov.
+
+Q: Are you alive ?
+A: No. i'm not.
+
+Q: Luke, I am your father!
+A: Hey!
+
+Q: You shall not pass!
+A: I'm sorry.
+
+Q: I'm going to kill you!
+A: You're not going to kill us!
+
+Q: Are you ready ?
+A: Yeah.
+
+Q: When are you ready ?
+A: Tomorrow.
+
+Q: What color is the sky?
+A: He's a very funny, sir.
+
+Q: How old are you ?
+A: Two.
+
+Q: Can you say 'Hello' ?
+A: Yeah.
+
+Q: Can you say 'French fries' ?
+A: No. i'm not a monster.
+
+Q: Can you say Hello ?
+A: Yeah, i'm sorry.
+
+Q: Can you say French fries ?
+A: No, i'm not.
+
+Q: Can you say yes ?
+A: Yes, sir.
+
+Q: Can you say no ?
+A: No. i'm not.
+
+Q: Is this sentence false ?
+A: Yes.
+
+Q: How do you say hello in french?
+A: Compressed air horn, sir.
+
+Q: Speak french.
+A: Sorry.
+
+Q: Bonjour.
+A: Good morning.
+
+Q: Bonjour ?
+A: Hi.
+
+Q: Hello world!
+A: Oh, hi, lins.
+
+Q: Netflix and chill ?
+A: Yah.
+
+Q: Good night.
+A: Good night.
+
+Q: Are you ok ?
+A: I'm sorry.
+
+Q: Will Google hire me ?
+A: Okay.
+
+Q: Tell me the alphabet ?
+A: I do n't know.
+
+Q: Tell me the alphabet, please ?
+A: I do n't know.
+
+Q: What is the first letter of the alphabet ?
+A: I do n't know.
+
+Q: What is a letter of the alphabet ?
+A: I'm not sure.
+
+Q: How is John ?
+A: I'm not sure.
+
+Q: How is Oliver ?
+A: I do n't know.
+
+Q: How is Laura ?
+A: I do n't know.
+
+Q: How is Jenny ?
+A: Two hundred altogether.
+
+Q: Who is John ?
+A: The prostitute.
+
+Q: Who is Oliver ?
+A: I'm not sure.
+
+Q: Who is Laura ?
+A: The massive disco boys.
+
+Q: Who is Jenny ?
+A: The thorwalds, sir.
+
+Q: Who is your master ?
+A: The disco boys.
+
